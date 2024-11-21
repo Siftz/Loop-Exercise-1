@@ -1,0 +1,66 @@
+ //For loop to manually type out
+ //for(int i = 0; i < 5; i++)
+ // {
+ //    Console.WriteLine($"{i}");
+ // }
+ // start
+ for(int i = 0; i < 5; i++)
+ {
+    Console.WriteLine($"{i}");
+ }
+ for(int i = 0; i < 5; i++)
+ {
+    Console.WriteLine($"{i}");
+ }
+ for(int i = 0; i < 5; i++)
+ {
+    COnsole.WriteLIne($"{i}");
+ }
+ for(int i = 0; i < 5; i++)
+ {
+    Console.WriteLIne($"{i}");
+ }
+ for(int i = 0; i < 5; i++)
+ {
+    Console.WriteLine($"{i}");
+ }
+ for(int i = 0; i < 5; i++)
+ {
+    Console.WriteLIne($"{i}");
+ }
+ for(int i = 0; i < 5; i++)
+ {
+    Console.WriteLine($"{i}");
+ }
+for(int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+for(int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+for(int i + 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+for(int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}")
+}
+for(int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}")
+}
+for(int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+for(int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+for(int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
